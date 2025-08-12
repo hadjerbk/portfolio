@@ -21,7 +21,7 @@ export default function PortfolioPage() {
       </header>
 
       <section className="bg-[#0b0f27] py-20 flex flex-col items-center text-center md:flex-row md:gap-10 md:p-10 ">
-          <img src="/pic.jpg" alt="Profile" className="w-48 h-48 rounded-full mb-4 object-cover md:w-100 md:h-100" />
+          <img src="/pic.jpeg" alt="Profile" className="w-48 h-48 rounded-full mb-4 object-cover md:w-100 md:h-100" />
           <div className="md:text-left md:w-[50%]">
         <h1 className="text-4xl font-bold mb-4">Hi, I’m <span className="text-orange-400">Hadjer</span> 🧑‍💻</h1>
         <p className="mb-4">a Frontend Developer and Web Designer with a passion for creativity and detail. I’m in my 4th year of computer science, focused on networks and cybersecurity, creating digital experiences that are both beautiful and secure.</p>
